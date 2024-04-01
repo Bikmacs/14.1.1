@@ -1,0 +1,7 @@
+C:\Users\Bikmacs\Documents\14.1 основы\14.1 основы\bin\Debug\14.1 основы.exe.config
+C:\Users\Bikmacs\Documents\14.1 основы\14.1 основы\bin\Debug\14.1 основы.exe
+C:\Users\Bikmacs\Documents\14.1 основы\14.1 основы\bin\Debug\14.1 основы.pdb
+C:\Users\Bikmacs\Documents\14.1 основы\14.1 основы\obj\Debug\14.1 основы.csproj.AssemblyReference.cache
+C:\Users\Bikmacs\Documents\14.1 основы\14.1 основы\obj\Debug\14.1 основы.csproj.CoreCompileInputs.cache
+C:\Users\Bikmacs\Documents\14.1 основы\14.1 основы\obj\Debug\14.1 основы.exe
+C:\Users\Bikmacs\Documents\14.1 основы\14.1 основы\obj\Debug\14.1 основы.pdb
